@@ -33,4 +33,4 @@ We propose **a complementary way of evaluating LLMs** which combines the control
 
 - The [main clembench project website](https://clembench.github.io)
 - Up-to-date leaderboard with evaluated models is available here: [CLEM Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
-- Benchmark [code](https://github.com/clembench/clembench) & [results](https://github.com/clembench/clembench-runs) are publicly available.
+- Benchmark [code](https://github.com/clembench/clemcore), [dialogue games](https://github.com/clembench/clembench) & [results](https://github.com/clembench/clembench-runs) are publicly available.
